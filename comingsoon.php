@@ -27,15 +27,16 @@
     <!-- hero -->
     <section class="cover text-white">
       <div class="container foreground">
-        <div class="row align-items-center vh-100">
+        <div class="row align-items-center">
           <div class="col">
             <div class="row align-items-center justify-content-center justify-content-lg-between">
               <div class="col-lg-6 order-lg-2">
-                <img src="assets/images/figure-3.svg" alt="Figure">
+                <img src="assets/images/comingbg.svg" alt="Figure">
               </div>
               <div class="col-md-8 col-lg-5 order-lg-1 text-center text-lg-left">
-                <h1 class="display-2 font-weight-bold">Coming Soon!</h1>
-                <a href="\" class="btn btn-outline-white">Go back to homepage</a>
+                <h1 class="display-1 font-weight-bold">Coming Soon!</h1>
+                <p>We are here to serve you better.</p>
+                <!--<a href="\" class="btn btn-outline-white">Go back to homepage</a>-->
               </div>
             </div>
           </div>
