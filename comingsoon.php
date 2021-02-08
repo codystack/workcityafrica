@@ -12,6 +12,15 @@
     <!-- End Google Tag Manager -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="og:url" content="https://workcityafrica.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="WorkCity&reg; :: Coworking and Workspace Solution">
+    <meta property="og:description" content="WORKCITY is the leading premium coworking space in Africa. A community that brings startups and entrepreneurs together to collaborate, inspire innovation and harness various skills that are geared towards economic growth and community development. It’s a space full of fun, energy and where people achieve more.">
+    <meta name="keywords" content="Workspaces Lagos,Virtual office space Lagos,Fast internet workspace,Co working space Lagos,Virtual office,Virtual co-working space,Podcast studio Lagos,Co working space,Workcity,Workcity Africa,Tech community co working space,co-working,coworking space lekki,deskyard,coworking space in port harcourt,hub30 cowork,cost of shared office space,coworking space in ajah,workstation lagos,free office space in lagos,co-working space in festac,cranium one,veniahub,virtual offices in nigeria,workspace nigeria,capital square ikoyi,lagos executive business lounge,workspace in surulere,workbay maryland,enterprise hub lagos,bvf office center,hub30 net,workbay ikeja,capital square lagos,co working space in ikorodu,virtual office in ikeja, lagos,virtual office in victoria island, lagos,virtual office in ikoyi,serviced office lagos, nigeria,workbay lagos island,virtual offices in surulere,v8 valley - workspace lagos,lagos cowork,989 coworking,virtual office lekki,co working offices in lekki,venia business hub lekki,regus ikoyi,office space lagos,regus lekki,creative hubs in lagos>
+    <meta property="og:image" content="https://i.imgur.com/KlgzEfm.png">
+    <meta name="author" content="ThankGod Okoro is a Software developer/programmer, Web + App Developer, UI/UX Designer, Brand Strategist &amp; Product/Graphic Designer.">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://i.imgur.com/0pyRhYK.png" />
 
     <link rel="stylesheet" href="assets/css/vendor.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
