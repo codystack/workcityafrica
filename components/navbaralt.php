@@ -35,7 +35,7 @@
             <span class="pr-2">
                 <img src="https://i.imgur.com/vSVsXS0.jpg" alt="Workcity Nigeria" class="avatar1">
             </span>
-            <a href="auth" class="btn btn-dark">Sign In <i class="icon-log-in"></i></a>
+            <a href="app" class="btn btn-dark">Sign In <i class="icon-log-in"></i></a>
           </div>
         </nav>
       </div>
